@@ -1,0 +1,8 @@
+{
+  "name": "PrimeBox Extensions",
+  "description": "PrimeBox \u2014 CloudStream extension bundles from Phisher, CNCVerse, CSX and Redowan",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/mdtt63729-ui/primebox-extensions/main/plugins.json"
+  ]
+}
